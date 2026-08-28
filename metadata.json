@@ -1,0 +1,6 @@
+{
+  "name": "Swapping Time",
+  "description": "Luxury timepiece marketplace and consignment platform featuring high-contrast horological precision design, curation, instant valuation, and vault management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
